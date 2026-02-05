@@ -1,0 +1,7 @@
+{
+  "name": "MoodSense - Expression Scan",
+  "description": "An AI-powered mood analyzer that uses micro-expression scanning to detect your energy and suggest products matching your vibe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
